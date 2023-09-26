@@ -28,8 +28,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 ```
-Developed By: Punugoti Ramsai
-Register Number: 212221240041
+Developed By: SV ROHITHKUMAR
+Register Number: 212221230084
 ```
 ```
 import numpy as np
